@@ -1,0 +1,10 @@
+20:27:46 **** Build of configuration Debug for project usart_01 ****
+make -j8 all 
+arm-none-eabi-size  usart_01.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8008	     20	   1644	   9672	   25c8	usart_01.elf
+Finished building: default.size.stdout
+ 
+
+20:27:46 Build Finished. 0 errors, 0 warnings. (took 371ms)
+
